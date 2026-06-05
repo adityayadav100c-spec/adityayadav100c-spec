@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Aditya Yadav
 
-I am a software developer and student with a passion for building functional, full-stack applications. Currently pursuing my Bachelor of Technology at IIIT Nagpur.
+I am a software developer and student with a passion for building functional, full-stack applications. Currently pursuing my Bachelor of Technology at Indian Institute of Information Technology Nagpur.
 
 💻 **Full-stack developer** (Next.js, React, Node.js, Express, MongoDB, Supabase)
 📊 Data Visualizer | 🏎️ Motorcycle Enthusiast | ⚽ Football & Cricket Buff
