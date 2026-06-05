@@ -53,7 +53,7 @@ Apas mein dynamic alignment ke liye Shields.io ke badges use kar sakte ho:
 
 <!-- GitHub Trophies Widget -->
 #### 🏆 GitHub Trophies
-[![]](https://github-profile-trophy.vercel.app/?username=https://github.com/adityayadav100c-spec&theme=onedark&column=7)
+(https://github-profile-trophy.vercel.app/?username=https://github.com/adityayadav100c-spec&theme=onedark&column=7)
 
 <!-- GitHub Stats Card -->
 #### 📈 My Stats
