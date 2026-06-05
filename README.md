@@ -51,7 +51,8 @@ Apas mein dynamic alignment ke liye Shields.io ke badges use kar sakte ho:
 📧 **Email:** [adityayadav100c@gmail.com]
 
 👨‍💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-yadav-1b2b512aa/](https://linkedin.com)  
-🌐 **Portfolio / GitHub:** [https://github.com/adityayadav100c-spec](https://github.com)
+🌐 **GitHub:** [https://github.com/adityayadav100c-spec](https://github.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-yadav-portfolio-five.vercel.app/)
 <!--
 **adityayadav100c-spec/adityayadav100c-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
