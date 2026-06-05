@@ -49,19 +49,6 @@ Apas mein dynamic alignment ke liye Shields.io ke badges use kar sakte ho:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
-### 📊 GitHub Stats & Trophies
-
-<!-- GitHub Trophies Widget -->
-#### 🏆 GitHub Trophies
-(https://github-profile-trophy.vercel.app/?username=https://github.com/adityayadav100c-spec&theme=onedark&column=7)
-
-<!-- GitHub Stats Card -->
-#### 📈 My Stats
-![](https://github-readme-stats.vercel.app/api?username=https://github.com/adityayadav100c-spec&show_icons=true&theme=tokyonight&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/adityayadav100c-spec)&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 Let's Connect!
 
 📧 **Email:** [adityayadav100c@gmail.com]
