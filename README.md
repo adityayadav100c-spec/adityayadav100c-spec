@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hey there! I'm Aditya Yadav
 
 I am a software developer and student with a passion for building functional, full-stack applications. Currently pursuing my Bachelor of Technology at IIIT Nagpur.
@@ -66,7 +65,6 @@ Apas mein dynamic alignment ke liye Shields.io ke badges use kar sakte ho:
 ### 🤝 Let's Connect!
 
 📧 **Email:** [adityayadav100c@gmail.com]
-
 👨‍💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-yadav-1b2b512aa/](https://linkedin.com)  
 🌐 **Portfolio / GitHub:** [https://github.com/adityayadav100c-spec](https://github.com)
 <!--
