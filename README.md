@@ -50,8 +50,8 @@ Apas mein dynamic alignment ke liye Shields.io ke badges use kar sakte ho:
 
 📧 **Email:** [adityayadav100c@gmail.com]
 
-👨‍💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-yadav-1b2b512aa/](https://linkedin.com)  
-🌐 **GitHub:** [https://github.com/adityayadav100c-spec](https://github.com)
+👨‍💼 **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/aditya-yadav-1b2b512aa/)  
+🌐 **GitHub:** [https://github.com](https://github.com/adityayadav100c-spec)
 
 **Portfolio:**[[https://portfolio.com](https://aditya-yadav-portfolio-five.vercel.app/)]
 <!--
