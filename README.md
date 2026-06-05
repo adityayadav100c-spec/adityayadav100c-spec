@@ -13,11 +13,8 @@ I am a software developer and student with a passion for building functional, fu
 * 📜 **Wills24** – Spearheaded a digital estate planning platform simplifying secure legal will creation.
 * 💰 **Prosper Wealth** – Developed a comprehensive digital wealth and asset management system.
 * 🔐 **USB 3P** – A self-destructing, hardware-level tamper-proof pendrive architected specifically for high-grade data privacy and cyber security.
-* 😴 **Drowsiness Detection** – A real-time computer vision + Arduino IoT embedded system designed to detect driver fatigue/drowsiness patterns and trigger instant hardware safety alerts.
 * 🎬 **CineApp** – A dynamic movie tracking application powered by TMDB API allowing global users to discover, bookmark, review, and organize films.
 * 🔗 **LinkMe** – A robust full-stack deployment enabling users to customize and share bio-link profiles integrated with JWT/Google OAuth and tabular PDF exports.
-* 🧶 **Smart Knitting Needle** – An innovative IoT-integrated physical computing project assisting users with real-time digital stitching and tracking patterns.
-
 
 ---
 
