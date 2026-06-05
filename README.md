@@ -66,6 +66,7 @@ Apas mein dynamic alignment ke liye Shields.io ke badges use kar sakte ho:
 ### 🤝 Let's Connect!
 
 📧 **Email:** [adityayadav100c@gmail.com]
+
 👨‍💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-yadav-1b2b512aa/](https://linkedin.com)  
 🌐 **Portfolio / GitHub:** [https://github.com/adityayadav100c-spec](https://github.com)
 <!--
