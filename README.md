@@ -3,8 +3,9 @@
 I am a software developer and student with a passion for building functional, full-stack applications. Currently pursuing my Bachelor of Technology at Indian Institute of Information Technology Nagpur.
 
 💻 **Full-stack developer** (Next.js, React, Node.js, Express, MongoDB, Supabase)
-📊 Data Visualizer | 🏎️ Motorcycle Enthusiast | ⚽ Football & Cricket Buff
+📊 Data Visualizer | 🏎️ Formula One Enthusiast | ⚽ Football & Cricket Buff
 🤝 Always open to new challenges, efficient workflows, and collaborations!
+I am looking for an job and open to internships freelance projects and collaborations.Drop me a message
 
 ---
 
