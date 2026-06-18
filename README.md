@@ -19,9 +19,7 @@ I am looking for an job and open to internships freelance projects and collabora
 
 ---
 
-### 💻 Tech Stack & Tools
-
-Apas mein dynamic alignment ke liye Shields.io ke badges use kar sakte ho:
+### 💻 Tech Stack & Tools-
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
